@@ -1,5 +1,5 @@
 # Principal Component Analysis (PCA)
-
+<br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Samarjeet09/Principal_Component_Analysis-Implementation/blob/main/Principal_Component_Analysis.ipynb)
 ## Overview
 
 Principal Component Analysis (PCA) is a dimensionality reduction technique commonly used in data analysis and machine learning. Its primary objective is to identify patterns and relationships in high-dimensional data by transforming it into a lower-dimensional space while preserving the essential information. PCA achieves this by identifying the principal components, which are the orthogonal directions of maximum variance in the data.
